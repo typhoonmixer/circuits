@@ -1,0 +1,10 @@
+target
+.snfoundry_cache/
+.env
+*_cpp/
+*.json
+*.wasm
+*.sym
+*.r1cs
+*.zkey
+*_js/
