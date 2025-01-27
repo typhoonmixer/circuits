@@ -8,3 +8,4 @@ target
 *.r1cs
 *.zkey
 *_js/
+*.ptau
